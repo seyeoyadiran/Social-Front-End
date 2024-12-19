@@ -8,6 +8,6 @@ This project is supposed to mimic a social media website that many of us have us
 
 2. Type "npm install" in your terminal
 
-3. Run the command "npm start" or "npm run dev" in your terminal
+3. Run the command "npm run dev" in your terminal
 
 4. Enjoy :)
